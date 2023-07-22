@@ -23,7 +23,7 @@ Users should be able to:
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-following things are yet to be don
+following things are yet to be done
 - Add/Remove products from the cart 
 - Edit product quantities in the cart
 - Fill in all fields in the checkout 
