@@ -51,7 +51,7 @@ following things are yet to be done
 ### Links
 
 - Solution URL:  https://github.com/Aditya-Mane007/Audiophile-ecommerce-webapp
-- Live Site URL: https://your-live-site-url.com](https://loquacious-jalebi-f2779c.netlify.app/
+- Live Site URL: https://loquacious-jalebi-f2779c.netlify.app/
 
 ### Built with
 
