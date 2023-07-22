@@ -50,8 +50,8 @@ following things are yet to be done
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:  
+- Live Site URL: https://your-live-site-url.com](https://loquacious-jalebi-f2779c.netlify.app/
 
 ### Built with
 
