@@ -7,7 +7,6 @@ import Zx7Speaker from "../Components/Cards/Zx7Speaker"
 import Yx1Earphones from "../Components/Cards/Yx1Earphones"
 import BestAudioGear from "../Components/Cards/BestAudioGear"
 import Footer from "../Components/Footer"
-import data from "../data.json"
 
 const Home = () => {
   return (

@@ -1,4 +1,4 @@
-import React,{ useEffect } from 'react'
+import React from 'react'
 import {
   BrowserRouter as Router,
   Routes,
@@ -10,10 +10,8 @@ import Speakers from './Pages/Speakers'
 import Earphones from './Pages/Earphones'
 import ProductDetailsPage from './Pages/ProductDetailsPage'
 import Checkout from './Pages/Checkout'
-import data from "./data.json"
 
 const App = () => {
-  // console.log(data)
   return (
     <>
       <Router>
